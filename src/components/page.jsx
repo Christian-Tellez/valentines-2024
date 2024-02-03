@@ -37,7 +37,7 @@ const Page = () => {
       {yesPressed ? (
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-          <div className="text-4xl font-bold my-1">Hehe yay!!!💗</div>
+          <div className="text-4xl font-bold my-2">Hehe yay!!!💗</div>
           <p>It's us (I'm the brown one ofc)!</p>
         </>
       ) : (
